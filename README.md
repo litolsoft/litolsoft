@@ -1,4 +1,4 @@
-### Hola somo Litolsoft S.A. 👋
+### Hola somos Litolsoft S.A. 👋
 Tú aliado tecnológico
 <!--
 **litolsoft/litolsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
